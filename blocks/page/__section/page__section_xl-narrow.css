@@ -1,0 +1,6 @@
+@media screen and (min-width: 1025px) {
+  .page__section_xl-narrow {
+    max-width: calc(1280px - 2 * 9.25rem);
+    width: calc(100% - 2 * 3rem);
+  }
+}

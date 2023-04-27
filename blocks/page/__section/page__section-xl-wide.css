@@ -1,5 +1,5 @@
 @media screen and (min-width: 1025px) {
-  .page__section_xl-wide {
+  .page__section-xl-wide {
     max-width: calc(1280px - 2 * 3rem);
     width: calc(100% - 2 * 3rem);
   }

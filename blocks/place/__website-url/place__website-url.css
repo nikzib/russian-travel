@@ -1,20 +1,9 @@
 .place__website-url {
   margin: 0;
+  padding-bottom: 0.75rem;
   color: #aaa;
   font-weight: 400;
   font-size: 0.75rem;
-  line-height: 1.6;
+  line-height: 1;
   letter-spacing: 0.125rem;
-}
-
-@media screen and (max-width: 768px) {
-  .place__title {
-    line-height: 1;
-  }
-}
-
-@media screen and (max-width: 425px) {
-  .place__title {
-    line-height: 1;
-  }
 }

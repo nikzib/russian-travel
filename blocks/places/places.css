@@ -2,3 +2,9 @@
   margin: 0 auto;
   padding-bottom: 5.75rem;
 }
+
+@media screen and (max-width: 425px) {
+  .places {
+    padding-bottom: 4.125rem;
+  }
+}
